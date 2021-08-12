@@ -1,0 +1,25 @@
+
+  .footer{  background: #E9F8FF;   }
+
+  .footer_container  {
+align-items:center;
+ display: flex;
+ justify-content: space-evenly;
+  margin-top: 3rem ;
+
+ height: 420px;
+  
+
+  }
+   .footer_list {  display: flex;  
+                  flex-direction: column;
+                  max-width: 250px ;
+                 line-height: 2rem;   }
+            
+
+                .link_list_footer  {   color: #07A7EB;
+                    text-decoration: underline;   }
+
+    .logo_footer  {   width: 150px; 
+             height: 150px;  }
+

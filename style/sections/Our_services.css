@@ -1,0 +1,95 @@
+   
+  
+ .services {  display: flex;
+             justify-content: center;
+             flex-wrap: wrap;  }
+   
+   
+   .servise_list{ 
+                  width: 75rem;
+                  display: flex;
+                  flex-wrap: wrap;
+                  justify-content: center; 
+                 text-align: center;
+                   }
+
+.service_list-item { height:  18rem;
+                     width: 25rem;   
+                     padding-top: 15rem; 
+                     padding-left: 2rem; 
+                     padding-bottom:1rem ;
+                     padding-right: 2rem;
+                    
+                       }
+
+                     
+.service_list-item-weight{ font-weight:700 ; 
+                            display: block;
+                            padding-bottom: 0.5rem;
+                             }
+.icon_service-1 { background:url(../../img/icon_services\(1\).png) no-repeat ;
+                 background-position:  center  ;  
+                  transition: 0.6s ; }
+
+.icon_service-1:hover {  background: url(../../img/icon_services-BLACK\ \(1\).png   )  no-repeat  ; 
+                          background-position:  center  ;}
+        
+ .icon_service-2 { background:url(../../img/icon_services\ \(2\).png) no-repeat ;
+                                  background-position:  center  ;  
+                                  transition: 0.6s  ;               }    
+                      
+ .icon_service-2:hover {  background: url(../../img/icon_services-BLACK\ \(2\).png  )  no-repeat  ; 
+                           background-position:  center  ;}                                
+.icon_service-3 { background:url(../../img/icon_services\(3\).png) no-repeat ;
+                  background-position:  center  ;  
+                  transition: 0.6s ; }
+
+.icon_service-3:hover {  background: url(../../img/icon_services-BLACK\ \(3\).png  )  no-repeat  ; 
+                         background-position:  center  ;                                 } 
+                     
+.icon_service-4 {    background:url(../../img/icon_services\ \(4\).png) no-repeat ;
+    background-position:  center   ;  
+    transition: 0.6s ; }
+    
+.icon_service-4:hover { background: url(../../img/icon_services-BLACK\ \(4\).png )  no-repeat  ; 
+                        background-position:  center  ;   }    
+                          
+.icon_service-5 { background:url(../../img/icon_services\ \(5\).png) no-repeat ;
+                 background-position:  center  ;  
+                 transition: 0.6s ;                                            
+                  }   
+
+.icon_service-5:hover { background: url(../../img/icon_services-BLACK\ \(5\).png)  no-repeat  ; 
+    background-position:  center  ;   }   
+
+
+.icon_service-6  { background:url(../../img/icon_services\(6\).png) no-repeat ;
+                   background-position:  center  ;  
+                   transition: 0.6s ;                                             } 
+                   
+.icon_service-6:hover   { background: url(../../img/icon_services-BLACK\ \(6\).png)  no-repeat  ; 
+                       background-position :  center  ;       }
+
+
+.icon_service-7  { background:url(../../img/icon_services\(7\).png) no-repeat ;
+                 background-position:  center  ;  
+                 transition: 0.6s ;                                             }
+         
+.icon_service-7:hover { background: url(../../img/icon_services-BLACK\ \(7\).png)  no-repeat  ; 
+                        background-position :  center  ;       }
+
+.icon_service-8  { background:url(../../img/icon_services\(8\).png) no-repeat ;
+                   background-position:  center  ;  
+                  transition: 0.6s ;                                             } 
+
+.icon_service-8:hover { background: url(../../img/icon_services-BLACK\ \(8\).png)  no-repeat  ; 
+    background-position :  center  ;       }                      
+
+.icon_service-9 { background:url(../../img/icon_services\(9\).png) no-repeat ;
+                  background-position:  center  ;  
+                 transition: 0.6s ;                                             } 
+
+.icon_service-9:hover  { background: url(../../img/icon_services-BLACK\ \(9\).png)  no-repeat  ; 
+                         background-position :  center  ;       }                            
+
+                                                

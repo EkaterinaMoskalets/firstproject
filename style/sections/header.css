@@ -1,0 +1,19 @@
+
+.header { padding: 15px 0 ;   }
+.header_container { display: flex; 
+                   align-items: center;  
+                   justify-content: space-between; 
+                 }
+.header_list {     display:flex ;      
+                   column-gap: 41px ;   }
+
+.header_list_link { color: black;   
+                    text-decoration: none;
+                    transition: all .6s ease;          }                 
+  
+
+.header_list_link:hover  {   color: #07A7EB;
+                            text-decoration: underline;
+
+
+                                                }                    

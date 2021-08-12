@@ -1,0 +1,48 @@
+
+.request   { background: url(../../img/form_bg.png) no-repeat center/cover ;
+             height: 47rem ;
+            display: flex; }
+             
+
+
+
+.caption_request  {
+
+    font-size: 2.25rem; 
+        text-align: center;  
+        margin-top: 3.94rem; 
+        font-weight: 400;
+        color:#ffff; 
+        padding-top: 1rem;
+       padding-bottom:5rem ;     }
+     
+     .forms  {  display: flex;  
+                max-width: 794px; 
+                justify-content:space-between ; 
+                flex-wrap: wrap;
+                row-gap: 2rem;  }
+                .form {  border-radius:8px ;
+                  border: none;
+                  }
+                  .form:hover { background: #F1FBFF;
+                  }
+           .form{  width: 384px;
+                 height: 58px; ;      }
+
+         .big_form {   width: 794px;
+                      height: 124px;  
+                     margin-bottom: 2rem;
+                     border-radius:8px ;
+                     border: none;             }
+
+          .big_form:hover { background: #F1FBFF;
+          } 
+
+                    
+        .big_form ::before {       
+                                content:"hh "; 
+                                position: absolute;
+                                 background-image: url( ../../img/icon_phone.png )  ;
+                               
+                               } 
+                      

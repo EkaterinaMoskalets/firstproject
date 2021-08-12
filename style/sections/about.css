@@ -1,0 +1,40 @@
+
+.caption_about{font-size: 2.25rem; 
+              margin-left: 0.5rem;
+              font-weight: 400;
+               line-height: 45px; 
+               margin-top: 2.5rem ;               }
+
+
+
+.about { background: url(../../img/bg_about.png) no-repeat center;
+        height: 40.90rem;
+        display: flex;
+        justify-content: right;
+        align-items:right; 
+        margin-top:5rem ;
+      
+      }
+ .about_container {  display: block;
+               flex-direction: column;
+              width: 38.25rem; 
+              position: relative;
+              left:  17rem;
+              top: 3rem;
+              line-height: 22px;} 
+
+ p {  padding:1rem ;    }
+
+   .item_weight  { font-weight: 700;        }
+ .btn_about { font-size: 1.13rem;
+               width: 50%;
+              height: 3.63rem;
+              background:none;
+              border-radius: 8px;
+              border: 2px  solid #07A7EB;
+              color:  #07A7EB; 
+              margin-left: 0.5rem;  
+              margin-top: 2rem;   }     
+  .btn_about:hover {  background: #07A7EB;
+                      color: #ffff;
+  }            

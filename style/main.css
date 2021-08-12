@@ -1,0 +1,15 @@
+
+@import url(./global/fonts.css);
+@import url(./global/base.css);
+@import url(./global/btn.css);  
+@import url(./global/h2.css);            
+
+
+@import url( ./sections/header.css);
+@import url(./sections/hero.css);
+@import url(./sections/Our_services.css);
+@import url(./sections/about.css);
+@import url(./sections/partners.css   );
+@import url(./sections/request.css);
+@import url(./sections/Contact_informantion.css );
+@import url(./sections/footer.css);

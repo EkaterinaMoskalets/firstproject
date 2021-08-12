@@ -1,0 +1,12 @@
+    .btn{ font-size: 1.13rem;
+          width: 100%;
+        font-weight: 700;
+         
+          min-height: 3.63rem;
+          background: #07A7EB;
+          border-radius: 8px;
+          border: none;
+          color: #ffff; }
+          .btn:hover {  background :  #45C7FF;
+          }
+          
